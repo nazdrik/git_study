@@ -2,3 +2,7 @@ this is file of amazing feature
 
 
 changes in new feature
+
+
+
+Added some changes into amazing feature
